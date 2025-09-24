@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "728109580600",
+    "project_id": "champion-hub",
+    "storage_bucket": "champion-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728109580600:android:58fda3cfd02cb14bce81cd",
+        "android_client_info": {
+          "package_name": "com.veloxis.championhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728109580600-g19oko7h31s71u2o9arrq0gvj0bp2has.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.veloxis.championhub",
+            "certificate_hash": "cd608b2fffcb689f9fd0f9e725aa494bcd9c6ee5"
+          }
+        },
+        {
+          "client_id": "728109580600-6lmfqb7s2403iasjdv6grbm9qgd2in2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTq9lpnPGqd6dYSatQrp57GNTCtePqvmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728109580600-6lmfqb7s2403iasjdv6grbm9qgd2in2t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728109580600-vlc88qr6kjm2gd9dv3jkj59qreb5t6ur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tournamentManager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
