@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "tournament_manager",
-            "request": "launch",
+            "request": "lunch",
             "type": "dart"
         },
         {
